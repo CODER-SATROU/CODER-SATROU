@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CODER-SATROU
+- 👋 Hi, I’m @Anmol Aryan
 -  I’m interested in coding
 - 🌱 I’m currently learning HTML
 -  I’m looking to collaborate on Discord
